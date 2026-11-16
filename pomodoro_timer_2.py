@@ -33,7 +33,7 @@ while current_set <= max_sets:
         time.sleep(1)
         b_sec = b_sec - 1
 
-    print(f"{current_set}セット終了")
+    print(f"{current_set}セット目終了")
     current_set = current_set + 1
 
 print("\n全セット終了、お疲れ様でした")    
